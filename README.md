@@ -6,6 +6,9 @@ Projeto feito para atender as demandas abaixo
   Deve existir um carrinho de compras onde será listado os produtos que o cliente selecionou;
   Deve possuir um botão checkout (gerar um pdf como se fosse um comprovante).
   
+Caso queria apenas executar o projeto sem precisar compilar pode usar esse link para baixar o apk
+https://expo.io/artifacts/531df8c1-df34-4493-b91f-93c99d67868d
+  
 # Projeto foi feito usando a plataforma expo (https://expo.dev/)
   Para executar o projeto vai ser necessário instalar a expo-cli
   ```
@@ -20,3 +23,5 @@ Projeto feito para atender as demandas abaixo
  npm start
  ```
  Agora basta fazer o download do app Expo na Playstore e scanear o QRCode
+ 
+ 
