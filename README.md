@@ -24,4 +24,5 @@ https://expo.io/artifacts/531df8c1-df34-4493-b91f-93c99d67868d
  ```
  Agora basta fazer o download do app Expo na Playstore e scanear o QRCode
  
- 
+ Usuário: admin
+ Senha: 1234
