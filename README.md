@@ -1,13 +1,11 @@
 # Minha Frutaria
 Projeto feito para atender as demandas abaixo
+
   Desenvolver um app, tipo e-commerce, utilizando React Native, para vender maçã, pêra, banana, abacaxi e manga.
   O cliente deve realizar o login (pode ser fixo)
   O cliente poderá pesquisar pelo produto e escolher aquele que quer comprar;
   Deve existir um carrinho de compras onde será listado os produtos que o cliente selecionou;
   Deve possuir um botão checkout (gerar um pdf como se fosse um comprovante).
-  
-Caso queria apenas executar o projeto sem precisar compilar pode usar esse link para baixar o apk
-https://expo.io/artifacts/531df8c1-df34-4493-b91f-93c99d67868d
   
 # Projeto foi feito usando a plataforma expo (https://expo.dev/)
   Para executar o projeto vai ser necessário instalar a expo-cli
